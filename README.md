@@ -5,9 +5,8 @@
 # 👩‍💻 Hi, I'm Behnaz Mirmiran
 Linux System Engineer | DevOps Enthusiast | Docker & Kubernetes Practitioner
 
-🌱 I’m currently working on DevOps projects, automating infrastructure using tools like Ansible, Docker, and Kubernetes.  
-🔭 Currently building 15+ real-world DevOps projects.  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/behnaz-mirmiran)  
+🌱 I’m currently working on DevOps/SRE projects, automating infrastructure using tools like Ansible, Docker, and Kubernetes.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/behnaz-m-42662663)
 🌍 Based in: Iran (looking for relocation opportunities)
 
 ## ⚙️ Tech Stack
