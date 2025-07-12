@@ -2,12 +2,13 @@
   <img src="header.png" alt="Behnaz Mirmiran Header Banner" />
 </p>
 
-# 👩‍💻 Hi, I'm Behnaz Mirmiran
+# 👩‍💻 Hi, I'm Behnaz Mirmiran  
 Linux System Engineer | DevOps Enthusiast | Docker & Kubernetes Practitioner
 
-🌱 I’m currently working on DevOps/SRE projects, automating infrastructure using tools like Ansible, Docker, and Kubernetes.  
+🌱 I’m currently working on practical DevOps projects using Docker, Kubernetes, and Ansible.  
+🔭 Focused on building end-to-end infrastructure automation systems.  
+🌎 Open to opportunities both locally (Iran) and internationally (remote or relocation).  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/behnaz-m-42662663)
-🌍 Based in: Iran (looking for relocation opportunities)
 
 ## ⚙️ Tech Stack
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
