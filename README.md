@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="header.png" alt="Behnaz Mirmiran Header Banner" />
-</p>
-
 # 👩‍💻 Hi, I'm Behnaz Mirmiran  
 Linux System Engineer | DevOps Enthusiast | Docker & Kubernetes Practitioner
 
