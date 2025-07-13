@@ -37,6 +37,13 @@ Currently building a portfolio of real-world DevOps projects on GitHub.
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=behnaz-mirmiran&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
 ### 🧠 Most Used Languages
 
 <p align="center">
@@ -52,16 +59,10 @@ Currently building a portfolio of real-world DevOps projects on GitHub.
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=behnaz-mirmiran&theme=tokyonight&row=1&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/behnaz-m-42662663/)
 - 💻 [GitHub](https://github.com/behnaz-mirmiran)
+
+
+
