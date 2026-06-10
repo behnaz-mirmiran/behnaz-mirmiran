@@ -11,13 +11,11 @@ incident response, and automation — from bare-metal servers to
 containerized environments with Docker and Kubernetes.
 
 I focus on:
-🖥️ Linux system engineering & server management
-📡 Infrastructure design & maintenance  
-🔥 Reliability, monitoring & incident response (SRE)
-
-⚙️ Automation & scripting (Bash, Ansible, Python)
-
-🔒 Security & performance in production environments
+🖥️ Linux system engineering & server management              
+📡 Infrastructure design & maintenance          
+🔥 Reliability, monitoring & incident response (SRE)            
+⚙️ Automation & scripting (Bash, Ansible, Python)              
+🔒 Security & performance in production environments        
 
 🌍 Open to remote or relocation opportunities globally
 
