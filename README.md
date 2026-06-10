@@ -10,7 +10,7 @@ My work spans system administration, infrastructure management,
 incident response, and automation — from bare-metal servers to 
 containerized environments with Docker and Kubernetes.
 
-I focus on:
+I focus on:         
 🖥️ Linux system engineering & server management                               
 📡 Infrastructure design & maintenance          
 🔥 Reliability, monitoring & incident response (SRE)            
