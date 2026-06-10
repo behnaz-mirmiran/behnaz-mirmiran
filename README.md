@@ -1,5 +1,5 @@
 # 👩‍💻 Hi, I'm Behnaz Mirmiran  
-Linux System Engineer | DevOps Enthusiast | Docker & Kubernetes Practitioner
+Linux Systems & Infrastructure Engineer | SRE
 
 🧠 Summary
 
