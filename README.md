@@ -18,6 +18,7 @@ I focus on:
 🔒 Security & performance in production environments
 
 🌍 Open to remote or relocation opportunities globally
+
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/behnaz-m-42662663)
 
 ## 📈 GitHub Stats
