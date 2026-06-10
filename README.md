@@ -3,15 +3,21 @@ Linux Systems & Infrastructure Engineer | SRE
 
 🧠 Summary
 
-I'm a Linux System Engineer and Site Reliability Engineer (SRE) with over 5 years of hands-on experience in DevOps, cloud infrastructure, and automation. I specialize in designing, deploying, and maintaining scalable systems using tools such as Docker, Kubernetes, Ansible, GitHub Actions, Prometheus, and more.
+I'm a Linux Systems and Infrastructure Engineer with 5+ years of 
+experience keeping production systems reliable, scalable, and secure.
 
-⚙️ Skilled in infrastructure-as-code (IaC), CI/CD pipelines, and container orchestration  
-🔒 Focused on performance, system reliability, and security in production environments  
-🌍 Open to new opportunities globally (relocation or remote) or locally in Iran   
-🤝 Passionate about learning, mentoring, and contributing to open-source projects   
+My work spans system administration, infrastructure management, 
+incident response, and automation — from bare-metal servers to 
+containerized environments with Docker and Kubernetes.
 
-Currently building a portfolio of real-world DevOps projects on GitHub.
+I focus on:
+🖥️ Linux system engineering & server management
+📡 Infrastructure design & maintenance  
+🔥 Reliability, monitoring & incident response (SRE)
+⚙️ Automation & scripting (Bash, Ansible, Python)
+🔒 Security & performance in production environments
 
+🌍 Open to remote or relocation opportunities globally
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/behnaz-m-42662663)
 
 ## 📈 GitHub Stats
